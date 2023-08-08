@@ -1,6 +1,6 @@
 import { AntTabs, Container } from "./styled";
-import SignIn from "../SignIn";
-import SignUp from "../SignUp";
+import SignIn from "../signin";
+import SignUp from "../signup";
 
 export const Register = () => {
   return (

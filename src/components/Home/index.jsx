@@ -3,7 +3,7 @@ import GenCarousel from "../Carousel";
 import { Container } from "./style";
 import Category from "../Category";
 import Recomended from "../Recomended";
-import Why from "../Why";
+import Why from "../why";
 import Recent from "../Recent";
 import Banner from "../Banner";
 

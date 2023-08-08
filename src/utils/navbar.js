@@ -5,7 +5,7 @@ import useUniqueId from "../hooks/useId";
 // pages:
 import SignInPage from "../pages/Register";
 import Favourite from "../pages/Favourite";
-import Signin from "../components/SignIn";
+import Signin from "../components/signin";
 import MyProfilePage from "../pages/MyPofile";
 import AddNewHousePage from "../pages/AddHause";
 // React.lazy pages:
